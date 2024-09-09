@@ -3,12 +3,13 @@
 RFM Analysis for Customer Insights and Behavioral Segmentation
 In this project, I implemented RFM (Recency, Frequency, Monetary) analysis to segment customers based on their purchasing behavior. This technique is widely used in marketing and business intelligence to identify high-value customers, improve customer retention, and create personalized marketing strategies.
 
-# Key Highlights:
+## Key Highlights:
 
-Recency: Measures how recently a customer made a purchase.
-Frequency: Measures how often the customer makes purchases.
-Monetary: Measures how much money the customer has spent.
-Project Features:
+####Recency: Measures how recently a customer made a purchase.
+####Frequency: Measures how often the customer makes purchases.
+####Monetary: Measures how much money the customer has spent.
+
+##Project Features:
 
 Data Integration: Processed and cleaned customer transaction data for meaningful insights.
 RFM Score Calculation: Derived RFM scores for each customer by categorizing them into quintiles.
